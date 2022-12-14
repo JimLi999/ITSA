@@ -4,7 +4,7 @@
 2. [Triangle](#triangle)
 3. [Pascal](#pascal)
 
-## Sum
+## [Sum](\practice_1_1214)
 
 ### 問題描述
 
