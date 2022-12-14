@@ -27,7 +27,7 @@ public class Main {
             //make sure the shift won't exceed 26.
             int shift=charShift[1]%26;
 
-            //if-elseif-else statement for shift left(exceed a to z), left(exceed a to z) or free shift(in a to z range).
+            //if-elseif-else statement for shift left(exceed a to z), right(exceed a to z) or free shift(in a to z range).
             if(a2z[charShift[0]-1]+shift< 'a'){
                 //shift left(exceed a to z)
                 a2z[charShift[0]-1]=(char) ('z'+shift+1);
