@@ -1,5 +1,5 @@
 # ITSA
-    date: 12/14 18:00
+    date: January(perhaps)
 ## IDE
 
 [IntelliJ](https://www.jetbrains.com/idea/)
