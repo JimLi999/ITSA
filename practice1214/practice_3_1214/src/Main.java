@@ -10,6 +10,8 @@ public class Main {
     }
 
     private static void logic(int layers) {
+        //reference
+        //https://zh.wikipedia.org/zh-tw/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E5%BD%A2#:~:text=ShowYangHuiTriangle()%0A%7D-,Java,-%5B%E7%B7%A8%E8%BC%AF%5D
         int[][] odds = new int[layers][];
         for (int n = 0; n < layers; n++) {
             odds[n] = new int[n + 1];
