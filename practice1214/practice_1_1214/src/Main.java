@@ -15,7 +15,7 @@ public class Main {
 
             //process input data
             for (int value:values) {
-                System.out.print(logic(value)+"\n");
+                System.out.println(logic(value));
             }
         }
     }
