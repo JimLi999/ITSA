@@ -32,7 +32,7 @@ public class Main {
                 //shift left(exceed a to z)
                 a2z[charShift[0]-1]=(char) ('z'+shift+1);
             } else if (a2z[charShift[0]-1]+shift>'z') {
-                //left(exceed a to z)
+                //shift right(exceed a to z)
                 a2z[charShift[0]-1]=(char) ('a'+shift-('z'-a2z[charShift[0]-1])-1);
             }else
                 //free shift(in a to z range)
