@@ -4,7 +4,7 @@
 2. [Triangle](#triangle)
 3. [Pascal](#pascal)
 
-## [Sum](/practice_1_1214)
+## [Sum](./practice_1_1214)
 
 ### 問題描述
 
@@ -19,7 +19,7 @@
 
 >輸出該整數 i 遞減階層相加的總和，最後必須有換行字元。
 
-## [Triangle](/practice_2_1214)
+## [Triangle](./practice_2_1214)
 
 ### 問題描述
 
@@ -33,7 +33,7 @@
 
 >以空白和星號輸出範例的三角形，最後必須有換行字元。
 
-## [Pascal](/practice_3_1214)
+## [Pascal](./practice_3_1214)
 
 ### 問題描述
 
