@@ -1,3 +1,5 @@
 # ITSA
+
 ## IDE
-[IntelliJ](https://www.jetbrains.com/idea/)
+
+*[IntelliJ](https://www.jetbrains.com/idea/)
