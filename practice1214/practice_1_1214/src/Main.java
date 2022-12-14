@@ -15,8 +15,8 @@ public class Main {
             }
 
             //process input data
-            for (int i = 0; i < inputs; i++) {
-                System.out.print(logic(values.get(i))+"\n");
+            for (int value:values) {
+                System.out.print(logic(value)+"\n");
             }
         }
     }
