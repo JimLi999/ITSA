@@ -20,6 +20,7 @@ public class Main {
             avg +=value;
         }
         avg /=values.size();
+        
         int passAVG=0;
         for (int value:values) {
             if (value>avg)passAVG++;
