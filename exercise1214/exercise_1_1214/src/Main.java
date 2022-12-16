@@ -43,9 +43,7 @@ public class Main {
                 {dirtyId[0][0],dirtyId[0][1]+1}
         };
         for (int i = 0; i < 4; i++) {
-            if(testIds[i][0]>6 || testIds[i][0]<0 || testIds[i][1]>6 || testIds[i][1]<0)
-                return false;
-            if(!Objects.equals(cloth[testIds[i][0]][testIds[i][1]], "X"))
+            if(testIds[i][0]>6 || testIds[i][0]<0 || testIds[i][1]>6 || testIds[i][1]<0 || !Objects.equals(cloth[testIds[i][0]][testIds[i][1]], "X"))
                 return false;
         }
         return true;
