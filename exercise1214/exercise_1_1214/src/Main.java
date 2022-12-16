@@ -47,8 +47,10 @@ public class Main {
     private static void printResult(String[][] cloth) {
         for (int i = 0; i < 7; i++) {
             for (int j = 0; j < 7; j++) {
-                if(j==6) System.out.println(cloth[i][j]);
-                else System.out.print(cloth[i][j]+" ");
+                if(j==6) 
+                    System.out.println(cloth[i][j]);
+                else 
+                    System.out.print(cloth[i][j]+" ");
             }
         }
     }
