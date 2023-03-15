@@ -165,5 +165,5 @@
 
 >由模擬後的圖片可以知道，`baby`, `adult`, `birth`, `total`都與一個數列有關係， `1, 1, 1, 2, 2, 3, 4, 5, 7, 9, 12...`。
 >數列的關係為 ![formula](./exercise_7_230315_sim/formula.jpg)
-[圖片來源](https://www.numerade.com/ask/question/we-work-with-sequence-with-a-recursive-formula-is-as-follows-x0-1-2-l-en-tn-2-n-3-vn-2-3-the-sequence-therefore-looks-like-111223457912-for-example-13-31-0-1-1-2-24-6-243-4-7-85-24-5-etc-pro-66856/)
 >可得知第n項的值為n-3和n-2的值相加而來的，故我們可以使用遞迴來算出題目需要的值。
+[圖片來源](https://www.numerade.com/ask/question/we-work-with-sequence-with-a-recursive-formula-is-as-follows-x0-1-2-l-en-tn-2-n-3-vn-2-3-the-sequence-therefore-looks-like-111223457912-for-example-13-31-0-1-1-2-24-6-243-4-7-85-24-5-etc-pro-66856/)
