@@ -13,8 +13,10 @@ public class Main {
     }
 
     private static int calculateBabies(int month){
-        if(month<=4)
+        if(month<=4 && month>1)
             return 1;
+        else if(month==1)
+            return 0;
         else
             return calculateBabies(month-3)+calculateBabies(month-2);
     }
