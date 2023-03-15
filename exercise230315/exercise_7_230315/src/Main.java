@@ -9,7 +9,7 @@ public class Main {
     }
 
     private static void logic(int month) {
-        System.out.println(calculateWorms(month));
+        System.out.println(calculateBabies(month));
     }
 
     private static int calculateWorms(int month){
