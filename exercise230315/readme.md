@@ -154,3 +154,9 @@
 ### 輸出說明
 
 >輸出在第 k 個月時你擁有幾隻變形蟲幼體?
+
+#### 解題思路
+
+![simulation](../exercise230315/exercise_7_230315_sim/simulation.png)
+
+>由模擬後的圖片可以知道，`baby`, `adult`, `birth`, `total`都與一個數列有關係， 
