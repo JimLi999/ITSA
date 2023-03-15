@@ -19,7 +19,6 @@ public class Main {
 
     private static void logic(ArrayList<String> rawData) {
         for (String it: rawData) {
-
             char[] data=it.toCharArray();
             ArrayList<Character> processedData=new ArrayList<>();
             for (Character c:data) {
