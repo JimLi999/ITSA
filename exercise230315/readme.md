@@ -33,7 +33,7 @@
 
 #### 解題思路
 
->透過`ArrayList`內建的`contains`method確定是否已經存在該字元，沒有則存入，有則略過。
+透過`ArrayList`內建的`contains`method確定是否已經存在該字元，沒有則存入，有則略過。
 
 ## [防錯](./exercise_2_230315/src/Main.java)
 
@@ -71,7 +71,7 @@
 
 #### 解題思路
 
->數學問題。
+數學問題。
 
 ## [存貨管理](./exercise_4_230315/src/Main.java)
 
@@ -79,7 +79,6 @@
 
 >家媛想做網拍，因為怕資金被存貨壓垮，所以想要有個存貨管理系統，如下表是他目
 前的存貨狀況，請幫忙撰寫一程式可以讓家媛方便查看貨品狀況，功能為：
-
 >1. 先輸入想搜尋的欄位，1 表示使用品號搜尋，2 表示使用商品名稱搜尋
 >2. 接著輸入關鍵字搜尋，去查看貨品狀況。
 >3. 輸入 0 表示離開。
@@ -106,7 +105,7 @@
 
 #### 解題思路
 
->自製class。
+自製class。
 
 ## [拿沙包](./exercise_5_230315/src/Main.java)
 
@@ -180,11 +179,11 @@
 
 - ##### [模擬程式碼](./exercise_7_230315_sim/src/Main.java)
 
->![simulation](./exercise_7_230315_sim/simulation.png)
+![simulation](./exercise_7_230315_sim/simulation.png)
 
 - ##### 解析
 
->由模擬後的圖片可以知道，`baby`, `adult`, `birth`, `total`都與一個數列有關係， `1, 1, 1, 2, 2, 3, 4, 5, 7, 9, 12...`。
->數列的關係為 ![formula](./exercise_7_230315_sim/formula.jpg)
->可得知第n項的值為n-3和n-2的值相加而來的，故我們可以使用遞迴(Recursive)來算出題目需要的值。
+由模擬後的圖片可以知道，`baby`, `adult`, `birth`, `total`都與一個數列有關係， `1, 1, 1, 2, 2, 3, 4, 5, 7, 9, 12...`。
+數列的關係為 ![formula](./exercise_7_230315_sim/formula.jpg)
+可得知第n項的值為n-3和n-2的值相加而來的，故我們可以使用遞迴(Recursive)來算出題目需要的值。
 [圖片來源](https://www.numerade.com/ask/question/we-work-with-sequence-with-a-recursive-formula-is-as-follows-x0-1-2-l-en-tn-2-n-3-vn-2-3-the-sequence-therefore-looks-like-111223457912-for-example-13-31-0-1-1-2-24-6-243-4-7-85-24-5-etc-pro-66856/)
