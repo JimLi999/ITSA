@@ -177,11 +177,11 @@
 
 #### 解題思路
 
-- ##### [模擬程式碼](./exercise_7_230315_sim/src/Main.java)
+- #### [模擬程式碼](./exercise_7_230315_sim/src/Main.java)
 
 ![simulation](./exercise_7_230315_sim/simulation.png)
 
-- ##### 解析
+- #### 解析
 
 由模擬後的圖片可以知道，`baby`, `adult`, `birth`, `total`都與一個數列有關係， `1, 1, 1, 2, 2, 3, 4, 5, 7, 9, 12...`。
 數列的關係為 ![formula](./exercise_7_230315_sim/formula.jpg)
