@@ -9,14 +9,14 @@ public class Main {
     }
 
     private static void logic(int month) {
-        System.out.println(calculateWorms(month));
+        System.out.println(calculateBabies(month));
     }
 
-    private static int calculateWorms(int month){
+    private static int calculateBabies(int month){
         if(month<=4)
             return 1;
         else
-            return calculateWorms(month-3)+calculateWorms(month-2);
+            return calculateBabies(month-3)+calculateBabies(month-2);
     }
 
 }
