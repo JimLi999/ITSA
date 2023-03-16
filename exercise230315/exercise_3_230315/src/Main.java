@@ -20,7 +20,7 @@ public class Main {
             if(it<1500){
                 System.out.println("70");
             }else {
-                int extraTime=it-1500, extra,price=70;
+                int extraTime=it-1500, extra, price=70;
                 extra=extraTime/500;
                 extraTime=extraTime-(500*extra);
                 if(extraTime>0)extra+=1;
