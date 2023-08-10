@@ -10,3 +10,4 @@
 |C_MM06-易|[英哩轉公里](./C_MM06_E/src/Main.java)|O|N/A|
 |C_MM07-易|[計算平方值與立方值](./C_MM07_E/src/Main.java)|O|N/A|
 |C_MM08-易|[計算兩數和的平方值](./C_MM08_E/src/Main.java)|O|N/A|
+|C_MM09-易|[計算 i 次方的值](./C_MM09_E/src/Main.java)|O|N/A|
