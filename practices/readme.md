@@ -11,3 +11,4 @@
 |C_MM07-易|[計算平方值與立方值](./C_MM07_E/src/Main.java)|O|N/A|
 |C_MM08-易|[計算兩數和的平方值](./C_MM08_E/src/Main.java)|O|N/A|
 |C_MM09-易|[計算 i 次方的值](./C_MM09_E/src/Main.java)|O|N/A|
+|C_MM10-易|[攝氏溫度轉華式溫度](./C_MM10_E/src/Main.java)|O|N/A|
