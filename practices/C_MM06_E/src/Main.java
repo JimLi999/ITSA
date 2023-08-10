@@ -11,11 +11,11 @@ public class Main {
             rawData = sc.nextInt();
             //pass the processed data to methods.
             System.out.println(mileToKilometer(rawData));
-            }
         }
+    }
 
     private static double mileToKilometer(int rawData) {
-        BigDecimal bigDecimal=BigDecimal.valueOf(rawData*1.6);
+        BigDecimal bigDecimal = BigDecimal.valueOf(rawData * 1.6);
         return bigDecimal.setScale(1, RoundingMode.HALF_UP).doubleValue();
     }
 }
