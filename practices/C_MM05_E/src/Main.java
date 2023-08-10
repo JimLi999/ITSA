@@ -11,8 +11,8 @@ public class Main {
             rawData = sc.nextDouble();
             //pass the processed data to methods.
             System.out.println(calcSquareArea(rawData));
-            }
         }
+    }
 
     private static double calcSquareArea(double rawData) {
         BigDecimal bigDecimal = BigDecimal.valueOf(Math.pow(rawData, 2));
