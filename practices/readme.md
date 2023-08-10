@@ -8,3 +8,4 @@
 |C_MM04-易|[計算總和、乘積、差、商和餘數](./C_MM04_E/src/Main.java)|O|N/A|
 |C_MM05-易|[計算正方形面積](./C_MM05_E/src/Main.java)|O|N/A|
 |C_MM06-易|[英哩轉公里](./C_MM06_E/src/Main.java)|O|N/A|
+|C_MM07-易|[英哩轉公里](./C_MM07_E/src/Main.java)|O|N/A|
