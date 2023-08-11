@@ -14,4 +14,4 @@
 |C_MM10-易|[攝氏溫度轉華式溫度](./C_MM10_E/src/Main.java)|O|N/A|
 |C_MM11-易|[購票計算](./C_MM11_E/src/Main.java)|O|N/A|
 |C_MM12-易|[相遇時間計算](./C_MM12_E/src/Main.java)|O|N/A|
-|C_MM13-易|[停車費計算](./C_MM12_E/src/Main.java)|O|N/A|
+|C_MM13-易|[停車費計算](./C_MM13_E/src/Main.java)|O|N/A|
