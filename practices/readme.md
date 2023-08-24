@@ -16,3 +16,4 @@
 |C_MM12-易|[相遇時間計算](./C_MM12_E/src/Main.java)|O|N/A|
 |C_MM13-易|[停車費計算](./C_MM13_E/src/Main.java)|O|N/A|
 |C_MM14-易|[計算時間的組合](./C_MM14_E/src/Main.java)|O|N/A|
+|C_MM15-易|[判斷座標是否在正方形的範圍內](./C_MM15_E/src/Main.java)|O|N/A|
