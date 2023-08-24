@@ -10,11 +10,10 @@ public class Main {
         //process inputs.
         int i = 0;
         while (sc.hasNextInt()) {
+            rawData[i] = sc.nextInt();
             if (i < 3) {
-                rawData[i] = sc.nextInt();
                 i++;
             } else {
-                rawData[i] = sc.nextInt();
                 //pass the processed data to methods.
                 System.out.println(calcParkingFee(rawData));
                 //reset index.
