@@ -20,3 +20,4 @@
 |C_MM16-易|[判斷座標是否在圓形的範圍內](./C_MM16_E/src/Main.java)|O|N/A|Aug 24, 2023|
 |C_MM17-易|[求最大公因數](./C_MM17_E/src/Main.java)|O|N/A|May 29, 2024|
 |C_MM18-易|[十進制轉二進制](./C_MM18_E/src/Main.java)|O|N/A|May 29, 2024|
+|C_MM19-易|[電話費計算](./C_MM19_E/src/Main.java)|O|N/A|May 29, 2024|
