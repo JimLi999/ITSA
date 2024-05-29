@@ -18,3 +18,4 @@
 |C_MM14-易|[計算時間的組合](./C_MM14_E/src/Main.java)|O|N/A|Aug 11, 2023|
 |C_MM15-易|[判斷座標是否在正方形的範圍內](./C_MM15_E/src/Main.java)|O|N/A|Aug 24, 2023|
 |C_MM16-易|[判斷座標是否在圓形的範圍內](./C_MM16_E/src/Main.java)|O|N/A|Aug 24, 2023|
+|C_MM17-易|[求最大公因數](./C_MM17_E/src/Main.java)|O|N/A|May 29, 2024|
