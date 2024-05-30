@@ -21,3 +21,8 @@
 |C_MM17-易|[求最大公因數](./C_MM17_E/src/Main.java)|O|N/A|May 29, 2024|
 |C_MM18-易|[十進制轉二進制](./C_MM18_E/src/Main.java)|O|N/A|May 29, 2024|
 |C_MM19-易|[電話費計算](./C_MM19_E/src/Main.java)|O|N/A|May 29, 2024|
+|C_MM19-易|[電話費計算](./C_MM19_E/src/Main.java)|O|N/A|May 29, 2024|
+|C_MM19-易|[電話費計算](./C_MM19_E/src/Main.java)|O|N/A|May 29, 2024|
+|C_MM20-易|[十進位轉十六進位](./C_MM20_E/src/Main.java)|O|N/A|May 30, 2024|
+|C_MM21-易|[算階乘](./C_MM21_E/src/Main.java)|O|N/A|May 30, 2024|
+|C_MM24-易|[計算薪水](./C_MM24_E/src/Main.java)|O|N/A|May 30, 2024|
