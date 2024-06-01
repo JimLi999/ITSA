@@ -27,3 +27,6 @@
 |C_MM25-易|[計算正整數被3整除之數值之總和](./C_MM25_E/src/Main.java)|O|N/A|May 31, 2024|
 |C_MM26-易|[輸出 1x1、2x2、...、NxN之結果](./C_MM26_E/src/Main.java)|O|N/A|May 31, 2024|
 |C_MM27-易|[計算兩整數間所有整數的總和](./C_MM27_E/src/Main.java)|O|N/A|May 31, 2024|
+|C_MM28-易|[計算1到N之間屬於5和7的倍數](./C_MM28_E/src/Main.java)|O|N/A|Jun 1, 2024|
+|C_MM29-易|[最大質數問題](./C_MM29_E/src/Main.java)|O|N/A|Jun 1, 2024|
+|C_MM30-易|[質數判別](./C_MM30_E/src/Main.java)|O|N/A|Jun 1, 2024|
