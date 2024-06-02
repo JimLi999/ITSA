@@ -30,3 +30,6 @@
 |C_MM28-易|[計算1到N之間屬於5和7的倍數](./C_MM28_E/src/Main.java)|O|N/A|Jun 1, 2024|
 |C_MM29-易|[最大質數問題](./C_MM29_E/src/Main.java)|O|N/A|Jun 1, 2024|
 |C_MM30-易|[質數判別](./C_MM30_E/src/Main.java)|O|N/A|Jun 1, 2024|
+|C_MM31-易|[計算1~N內能被2跟3整除，但不能被12整除的整數總和](./C_MM31_E/src/Main.java)|O|N/A|Jun 2, 2024|
+|C_MM32-易|[Armstrong數](./C_MM32_E/src/Main.java)|O|N/A|Jun 2, 2024|
+|C_MM33-易|[找1~N的完美數](./C_MM33_E/src/Main.java)|O|N/A|Jun 2, 2024|
