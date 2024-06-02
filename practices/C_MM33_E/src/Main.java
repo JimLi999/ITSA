@@ -17,21 +17,21 @@ public class Main {
     private static String printPerfectNum(int rawData) {
         StringBuilder strBuilder = new StringBuilder();
         for (int i = 2; i <= rawData; i++) {
-            if (isPerfectNum(i)) {
-                if (strBuilder.length() > 0) {
-                    strBuilder.append(" ");
-                    strBuilder.append(i);
-                } else {
-                    strBuilder.append(i);
-                }
+            if (!isPerfectNum(i)) {
+                continue;
+            }
+            if (strBuilder.length() > 0) {
+                strBuilder.append(" ");
+                strBuilder.append(i);
+            } else {
+                strBuilder.append(i);
             }
         }
         return strBuilder.toString();
     }
 
     private static boolean isPerfectNum(int num) {
-        ArrayList<Integer> factorList = findFactor(num, false);
-        return factorSumUp(factorList) == num;
+        return factorSumUp(findFactor(num, false)) == num;
     }
 
     private static ArrayList<Integer> findFactor(int num, boolean includeSelf) {
