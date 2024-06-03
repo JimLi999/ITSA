@@ -33,3 +33,6 @@
 |C_MM31-易|[計算1~N內能被2跟3整除，但不能被12整除的整數總和](./C_MM31_E/src/Main.java)|O|N/A|Jun 2, 2024|
 |C_MM32-易|[Armstrong數](./C_MM32_E/src/Main.java)|O|N/A|Jun 2, 2024|
 |C_MM33-易|[找1~N的完美數](./C_MM33_E/src/Main.java)|O|N/A|Jun 2, 2024|
+|C_MM34-易|[因數問題](./C_MM34_E/src/Main.java)|O|N/A|Jun 3, 2024|
+|C_MM35-易|[平、閏年判定](./C_MM35_E/src/Main.java)|O|N/A|Jun 3, 2024|
+|C_MM36-易|[季節判定](./C_MM36_E/src/Main.java)|O|N/A|Jun 3, 2024|
