@@ -10,27 +10,16 @@ public class Main {
         //process inputs.
         while (sc.hasNextInt()) {
             rawData = sc.nextInt();
-            System.out.println(CheckSeason(rawData));
+            System.out.println(isBissextileYear(rawData) ? "Bissextile Year" : "Common Year");
         }
     }
 
-    private static String CheckSeason(int month) {
-        switch (month){
-            case 3:
-            case 4:
-            case 5:
-                return "Spring";
-            case 6:
-            case 7:
-            case 8:
-                return "Summer";
-            case 9:
-            case 10:
-            case 11:
-                return "Autumn";
-            default:
-                return "Winter";
-        }
+    private static boolean isBissextileYear(int year) {
+        if (year % 400 == 0)
+            return true;
+        if (year % 100 == 0)
+            return false;
+        return (year % 4 == 0);
     }
 
 }
