@@ -36,3 +36,6 @@
 |C_MM34-易|[因數問題](./C_MM34_E/src/Main.java)|O|N/A|Jun 3, 2024|
 |C_MM35-易|[平、閏年判定](./C_MM35_E/src/Main.java)|O|N/A|Jun 3, 2024|
 |C_MM36-易|[季節判定](./C_MM36_E/src/Main.java)|O|N/A|Jun 3, 2024|
+|C_MM37-易|[判斷座標位於何處](./C_MM37_E/src/Main.java)|O|N/A|Jun 4, 2024|
+|C_MM38-易|[判斷3整數是否能構成三角形之三邊長](./C_MM38_E/src/Main.java)|O|N/A|Jun 4, 2024|
+|C_MM39-易|[判斷是何種三角形](./C_MM39_E/src/Main.java)|O|N/A|Jun 4, 2024|
