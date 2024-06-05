@@ -39,3 +39,6 @@
 |C_MM37-易|[判斷座標位於何處](./C_MM37_E/src/Main.java)|O|N/A|Jun 4, 2024|
 |C_MM38-易|[判斷3整數是否能構成三角形之三邊長](./C_MM38_E/src/Main.java)|O|N/A|Jun 4, 2024|
 |C_MM39-易|[判斷是何種三角形](./C_MM39_E/src/Main.java)|O|N/A|Jun 4, 2024|
+|C_MM40-易|[1~N之間的總和](./C_MM40_E/src/Main.java)|O|N/A|Jun 5, 2024|
+|C_MM41-中|[求(-1)^(n+1)x[1/(2n-1)]的和](./C_MM41_N/src/Main.java)|O|N/A|Jun 5, 2024|
+|C_MM42-易|[The Numbers](./C_MM42_E/src/Main.java)|O|N/A|Jun 5, 2024|
