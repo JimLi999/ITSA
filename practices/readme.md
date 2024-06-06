@@ -42,3 +42,6 @@
 |C_MM40-易|[1~N之間的總和](./C_MM40_E/src/Main.java)|O|N/A|Jun 5, 2024|
 |C_MM41-中|[求(-1)^(n+1)x[1/(2n-1)]的和](./C_MM41_N/src/Main.java)|O|N/A|Jun 5, 2024|
 |C_MM42-易|[The Numbers](./C_MM42_E/src/Main.java)|O|N/A|Jun 5, 2024|
+|C_MM46-易|[複數運算](./C_MM46_E/src/Main.java)|O|N/A|Jun 6, 2024|
+|C_MM48-易|[F91](./C_MM48_E/src/Main.java)|O|N/A|Jun 6, 2024|
+|C_MM49-易|[連續1的倍數](./C_MM49_E/src/Main.java)|O|N/A|Jun 6, 2024|
